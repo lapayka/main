@@ -1,0 +1,3 @@
+[submodule "sub-main"]
+	path = sub-main
+	url = https://github.com/lapayka/sub-main.git
